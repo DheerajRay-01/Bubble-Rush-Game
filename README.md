@@ -26,7 +26,7 @@ Bubble Rush is a simple browser-based game created using HTML, CSS, and JavaScri
 
 ## Play Online
 
-You can play the game online [here](https://your-website.com/game).
+You can play the game online [Play Now](https://dheerajray-01.github.io/Bubble-Rush-Game/).
 
 ## Responsive Design
 ![Capture](https://github.com/DheerajRay-01/Bubble-Rush-Game/assets/144889143/17529b3a-f940-4e2a-969d-02eaada570e2)
